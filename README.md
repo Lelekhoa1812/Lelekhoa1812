@@ -45,9 +45,9 @@
   <a href="https://discord.com/channels/@me/1222391142172201021">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="javascript:void(0)" onclick="alert('Contact my email:\nSwinburne student email: 103844421@student.swin.edu.au\nPersonal email: binkhoa1812@gmail.com')">
+<a href="email_contact.html" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+</a>
   <a href="https://www.linkedin.com/in/dang-khoa-le-96a6332a8/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
