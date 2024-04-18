@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! It's Khoa (Liam) Le, Swinburne Software Engineer from Vietnam</h2>
+<h2 align="left">Hi 👋! It's Khoa (Liam)</h2>
+<h2 align="left">Education: Swinburne Bachelor of Software Engineer</h2>
 
 ###
 
