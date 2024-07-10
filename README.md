@@ -35,6 +35,8 @@
   <img width="12"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" />
    <img width="12" />
+  <img src="sql.png" height="30" alt="sql logo"  />
+   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg?plain=1" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg?plain=1" height="30" alt="kotlin logo"  />
