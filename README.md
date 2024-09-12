@@ -92,3 +92,5 @@
 <br clear="both">
 
 ###
+
+<p align="left"><b>Quick access to my highlights at </b>https://lelekhoa1812.github.io/My-Profile/My%20Profile/</p>
