@@ -93,4 +93,4 @@
 
 ###
 
-<p align="left"><b>Quick access to my highlights at </b>https://lelekhoa1812.github.io/My-Profile/My%20Profile/</p>
+<a href="https://lelekhoa1812.github.io/My-Profile/My%20Profile/" align="left"><b>Quick access to my highlights</b></a>
