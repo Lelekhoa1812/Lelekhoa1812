@@ -41,9 +41,6 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg?plain=1" height="30" alt="kotlin logo"  />
    <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-plain.svg?plain=1" height="30" alt="php logo"  />
-  <img width="12"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" height="30" alt="ruby logo" />
 </div>
 <div align="left">
   <img width="12" />
