@@ -73,6 +73,9 @@
   <a href="https://www.facebook.com/profile.php?id=100041701211241">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="35" alt="fb logo"  />
   </a>
+  <a href="https://huggingface.co/BinKhoaLe1812">
+  <img src="https://img.shields.io/badge/HuggingFace-%23FFAE00.svg?style=for-the-badge&logo=huggingface&logoColor=white" height="35" alt="Hugging Face logo" />
+  </a>
   <a href="https://lelekhoa1812.github.io/Lelekhoa1812/email_contact.html" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
