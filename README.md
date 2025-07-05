@@ -17,77 +17,134 @@
 
 <img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newus.in%2Ffullstack-pro%3Fcourse%3DFull%2520Stack%2520pro%26path%3D%2Fstatic%2Fmedia%2Fdata-science-brochure.ce4df7d2334783dc4662.pdf&psig=AOvVaw17k2EgWJSF5EwMwPlwTb42&ust=1713336115464000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiUx8aQxoUDFQAAAAAdAAAAABAR)"  />
 
-###
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" />
-   <img width="12" />
-  <img src="sql.png" height="30" alt="sql logo"  />
-   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg?plain=1" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg?plain=1" height="30" alt="kotlin logo"  />
-   <img width="12" />
-</div>
-<div align="left">
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="30" alt="vuejs logo"  />
-    <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
-      <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="30" alt="unity logo"  />
-</div>
+<h2 align="center">🛠️ Languages & Technologies</h2>
 
-###
+---
 
-<div align="left">
+### 💻 Programming Languages
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/><br>Java</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><br>C++</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/><br>C#</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/><br>PHP</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" height="50"/><br>Ruby</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br>HTML5</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><br>CSS3</td>
+  </tr>
+</table>
+
+---
+
+### 📦 Frameworks & Libraries
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/><br>Vue.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/><br>Angular</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/><br>Spring</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/><br>Flask</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/><br>Bootstrap</td>
+  </tr>
+</table>
+
+---
+
+### 🧠 AI/ML & Data Science
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/><br>TensorFlow</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/><br>PyTorch</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/><br>NumPy</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/><br>Pandas</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/><br>OpenCV</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Scikit_learn_logo.svg" width="50" height="50"/><br>Scikit-learn</td>
+  </tr>
+</table>
+
+### 🔬 AI Engineering Highlights
+<details>
+<summary><strong>Find More</strong></summary>
+
+- MLOps (Docker, FastAPI, AWS)  
+- Retrieval-Augmented Generation (RAG)  
+- LLM integrations: Gemini, OpenAI, Qwen
+- NLP: BERT, RoBERTa
+- Deep Learning & CV: YOLO, ResNet50, Mask R-CNN  
+- OCR, ImageGen, Speech: ASR, TTS
+- Web Crawlers: Selenium, BeautifulSoup, Trafficular, Obsei 
+
+</details>
+
+---
+
+### 🛢️ Databases & Cloud
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br>MongoDB</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50" height="50"/><br>OracleDB</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/><br>Docker</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50"/><br>AWS</td>
+  </tr>
+</table>
+
+---
+
+### 📡 IoT & Embedded Systems
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50"/><br>Arduino</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/vi/c/cb/Raspberry_Pi_Logo.svg" width="50" height="50"/><br>Raspberry Pi</td>
+  </tr>
+</table>
+
+---
+
+### 🔗 Connect with Me
+<p align="center">
   <a href="https://www.linkedin.com/in/dang-khoa-le-96a6332a8/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/lele_khoa/?hl=vi">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100041701211241">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="35" alt="fb logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" height="35"/>
   </a>
   <a href="https://huggingface.co/BinKhoaLe1812">
-  <img src="https://img.shields.io/badge/HuggingFace-%23FFAE00.svg?style=for-the-badge&logo=huggingface&logoColor=white" height="35" alt="Hugging Face logo" />
+    <img src="https://img.shields.io/badge/HuggingFace-FFAE00?logo=huggingface&style=for-the-badge&logoColor=white" height="35"/>
   </a>
-  <a href="https://lelekhoa1812.github.io/Lelekhoa1812/email_contact.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://lelekhoa1812.github.io/Lelekhoa1812/email_contact.html">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.instagram.com/lele_khoa/?hl=vi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100041701211241">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" height="35"/>
   </a>
   <a href="https://youtube.com/@KhoaLe-ol8sy?si=cOMhbTGrwf7OiBKK">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white" height="35"/>
   </a>
   <a href="https://discord.com/channels/@me/1222391142172201021">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&style=for-the-badge&logoColor=white" height="35"/>
   </a>
-</div>
-
-###
+</p>
 
 <br clear="both">
 
