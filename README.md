@@ -5,17 +5,17 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lelekhoa1812&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lelekhoa1812&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Lelekhoa1812&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lelekhoa1812&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"/>
   </div>
   <div style="flex: 1;">
-    <img src="io.gif" style="height: 150px;"  />
+    <img src="io.gif" style="height: 140px;"  />
   </div>
 </div>
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newus.in%2Ffullstack-pro%3Fcourse%3DFull%2520Stack%2520pro%26path%3D%2Fstatic%2Fmedia%2Fdata-science-brochure.ce4df7d2334783dc4662.pdf&psig=AOvVaw17k2EgWJSF5EwMwPlwTb42&ust=1713336115464000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiUx8aQxoUDFQAAAAAdAAAAABAR)"  />
+<img align="right" height="140" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newus.in%2Ffullstack-pro%3Fcourse%3DFull%2520Stack%2520pro%26path%3D%2Fstatic%2Fmedia%2Fdata-science-brochure.ce4df7d2334783dc4662.pdf&psig=AOvVaw17k2EgWJSF5EwMwPlwTb42&ust=1713336115464000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiUx8aQxoUDFQAAAAAdAAAAABAR)"  />
 
 ---
 
@@ -27,19 +27,19 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/><br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/><br>TypeScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/><br>Java</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br>Python<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br>Java<br>&nbsp;</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><br>C++</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/><br>C#</td>
-    <td align="center"><img src="https://en.m.wikipedia.org/wiki/Flutter_(software)#/media/File%3AGoogle-flutter-logo.svg" width="50" height="50"/><br>Flutter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>C++<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><br>C#<br>&nbsp;</td>
+    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" width="40" height="40"/><br>Flutter<br>&nbsp;</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br>HTML5</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><br>CSS3</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br>HTML5<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br>CSS3<br>&nbsp;</td>
   </tr>
 </table>
 
@@ -49,20 +49,24 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/><br>Vue.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/><br>Angular</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><br>React/Native</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/><br>Vue.js<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/><br>Angular<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br>React/Native<br>&nbsp;</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/><br>Spring</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50"/><br>NodeJS</td>
-    <td align="center"><img src="https://en.m.wikipedia.org/wiki/Next.js#/media/File%3ANext.js_wordmark.svg" width="50" height="50"/><br>NextJS</td>
-
-    
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/><br>Spring<br>&nbsp;</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40"/><br>NodeJS<br>&nbsp;</td>
+    <td align="center"><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" width="40" height="40"/><br>NextJS<br>&nbsp;</td>    
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/><br>Flask</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/><br>Bootstrap</td>
+    <td align="center"><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" width="40" height="40"/><br>.NET<br>&nbsp;</td>
+    <td align="center"><img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" width="40" height="40"/><br>Flask<br>&nbsp;</td>
+    <td align="center"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" width="40" height="40"/><br>FastAPI<br>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><br>Bootstrap<br>&nbsp;</td>
+        <td align="center"><img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" width="40" height="40"/><br>shadecn/ui<br>&nbsp;</td>
+    <td align="center"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" width="40" height="40"/><br>TailwindCSS<br>&nbsp;</td>
   </tr>
 </table>
 
@@ -72,14 +76,24 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/><br>TensorFlow</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/><br>PyTorch</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/><br>NumPy</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/><br>Pandas</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br>TensorFlow<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br>PyTorch<br>&nbsp;</td>
+    <td align="center"><img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff" width="40" height="40"/><br>Keras<br>&nbsp;</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/><br>OpenCV</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Scikit_learn_logo.svg" width="50" height="50"/><br>Scikit-learn</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/><br>NumPy<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br>Pandas<br>&nbsp;</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Scikit_learn_logo.svg" width="40" height="40"/><br>Scikit-learn<br>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="40" height="40"/><br>Seaborn<br>&nbsp;</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40" height="40"/><br>Matplotlib<br>&nbsp;</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_D3.svg" width="40" height="40"/><br>D3<br>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/><br>OpenCV<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.brandfetch.io/idXAOOKs8W/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="40" height="40"/><br>YOLO<br>&nbsp;</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/23534030?v=4" width="40" height="40"/><br>PaddleOCR<br>&nbsp;</td>
   </tr>
 </table>
 
@@ -87,11 +101,11 @@
 <details>
 <summary><strong>Find More</strong></summary>
 
-- MLOps (Docker, FastAPI, AWS)  
+- MLOps (Docker, FastAPI, AWS, MCP, pd, np)  
 - Retrieval-Augmented Generation (RAG)  
-- LLM integrations: Gemini, OpenAI, Qwen
+- LLM integrations: Gemini, OpenAI, Qwen, VLMs
 - NLP: BERT, RoBERTa
-- Deep Learning & CV: YOLO, ResNet50, Mask R-CNN  
+- Deep Learning & CV: YOLO, ResNet40, Mask R-CNN  
 - OCR, ImageGen, Speech: ASR, TTS
 - Web Crawlers: Selenium, BeautifulSoup, Trafficular, Obsei 
 
@@ -103,13 +117,16 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/><br>MySQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br>MongoDB</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50" height="50"/><br>OracleDB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br>MySQL<br>&nbsp;</td>
+    <td align="center"><img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" width="40" height="40"/><br>MariaDB<br>&nbsp;</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/><br>OracleDB<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>MongoDB<br>&nbsp;</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/><br>Docker</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50"/><br>AWS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br>Docker<br>&nbsp;</td>
+    <td align="center"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" width="40" height="40"/><br>Kubernetes<br>&nbsp;</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40"/><br>AWS<br>&nbsp;</td>
+      <td align="center"><img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" width="40" height="40"/><br>Prisma<br>&nbsp;</td>
   </tr>
 </table>
 
@@ -119,8 +136,8 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50"/><br>Arduino</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/vi/c/cb/Raspberry_Pi_Logo.svg" width="50" height="50"/><br>Raspberry Pi</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/><br>Arduino<br>&nbsp;</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/vi/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40"/><br>Raspberry Pi<br>&nbsp;</td>
   </tr>
 </table>
 
