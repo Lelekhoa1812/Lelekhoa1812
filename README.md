@@ -27,19 +27,19 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br>Python<br>&nbsp;</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br>TypeScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br>Java<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;<br>Python<br></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;<br>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>&nbsp;<br>Java<br></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>C++<br>&nbsp;</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><br>C#<br>&nbsp;</td>
-    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" width="40" height="40"/><br>Flutter<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;<br>C++<br></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;<br>C#<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" width="40" height="40"/>&nbsp;<br>Flutter<br></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript<br>&nbsp;</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br>HTML5<br>&nbsp;</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br>CSS3<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;<br>JavaScript<br></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;<br>HTML5<br></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;<br>CSS3<br></td>
   </tr>
 </table>
 
@@ -49,24 +49,24 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/><br>Vue.js<br>&nbsp;</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/><br>Angular<br>&nbsp;</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br>React/Native<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>&nbsp;<br>Vue.js<br></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>&nbsp;<br>Angular<br></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>&nbsp;<br>React/Native<br></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/><br>Spring<br>&nbsp;</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40"/><br>NodeJS<br>&nbsp;</td>
-    <td align="center"><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" width="40" height="40"/><br>NextJS<br>&nbsp;</td>    
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>&nbsp;<br>Spring<br></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40"/>&nbsp;<br>NodeJS<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" width="40" height="40"/>&nbsp;<br>NextJS<br></td>    
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" width="40" height="40"/><br>.NET<br>&nbsp;</td>
-    <td align="center"><img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" width="40" height="40"/><br>Flask<br>&nbsp;</td>
-    <td align="center"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" width="40" height="40"/><br>FastAPI<br>&nbsp;</td>
+    <td align="center"><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" width="40" height="40"/>&nbsp;<br>.NET<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" width="40" height="40"/>&nbsp;<br>Flask<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" width="40" height="40"/>&nbsp;<br>FastAPI<br></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><br>Bootstrap<br>&nbsp;</td>
-        <td align="center"><img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" width="40" height="40"/><br>shadecn/ui<br>&nbsp;</td>
-    <td align="center"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" width="40" height="40"/><br>TailwindCSS<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>&nbsp;<br>Bootstrap<br></td>
+        <td align="center"><img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" width="40" height="40"/>&nbsp;<br>shadecn/ui<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" width="40" height="40"/>&nbsp;<br>TailwindCSS<br></td>
   </tr>
 </table>
 
@@ -76,24 +76,24 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br>TensorFlow<br>&nbsp;</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br>PyTorch<br>&nbsp;</td>
-    <td align="center"><img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff" width="40" height="40"/><br>Keras<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp;<br>TensorFlow<br></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>&nbsp;<br>PyTorch<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff" width="40" height="40"/>&nbsp;<br>Keras<br></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/><br>NumPy<br>&nbsp;</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br>Pandas<br>&nbsp;</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Scikit_learn_logo.svg" width="40" height="40"/><br>Scikit-learn<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;<br>NumPy<br></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;<br>Pandas<br></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Scikit_learn_logo.svg" width="40" height="40"/>&nbsp;<br>Scikit-learn<br></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="40" height="40"/><br>Seaborn<br>&nbsp;</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40" height="40"/><br>Matplotlib<br>&nbsp;</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_D3.svg" width="40" height="40"/><br>D3<br>&nbsp;</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="40" height="40"/>&nbsp;<br>Seaborn<br></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40" height="40"/>&nbsp;<br>Matplotlib<br></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_D3.svg" width="40" height="40"/>&nbsp;<br>D3<br></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/><br>OpenCV<br>&nbsp;</td>
-    <td align="center"><img src="https://cdn.brandfetch.io/idXAOOKs8W/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="40" height="40"/><br>YOLO<br>&nbsp;</td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/23534030?v=4" width="40" height="40"/><br>PaddleOCR<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>&nbsp;<br>OpenCV<br></td>
+    <td align="center"><img src="https://cdn.brandfetch.io/idXAOOKs8W/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="40" height="40"/>&nbsp;<br>YOLO<br></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/23534030?v=4" width="40" height="40"/>&nbsp;<br>PaddleOCR<br></td>
   </tr>
 </table>
 
@@ -117,16 +117,16 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br>MySQL<br>&nbsp;</td>
-    <td align="center"><img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" width="40" height="40"/><br>MariaDB<br>&nbsp;</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/><br>OracleDB<br>&nbsp;</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>MongoDB<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>&nbsp;<br>MySQL<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" width="40" height="40"/>&nbsp;<br>MariaDB<br></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/>&nbsp;<br>OracleDB<br></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;<br>MongoDB<br></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br>Docker<br>&nbsp;</td>
-    <td align="center"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" width="40" height="40"/><br>Kubernetes<br>&nbsp;</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40"/><br>AWS<br>&nbsp;</td>
-      <td align="center"><img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" width="40" height="40"/><br>Prisma<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;<br>Docker<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" width="40" height="40"/>&nbsp;<br>Kubernetes<br></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40"/>&nbsp;<br>AWS<br></td>
+      <td align="center"><img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" width="40" height="40"/>&nbsp;<br>Prisma<br></td>
   </tr>
 </table>
 
@@ -136,8 +136,8 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/><br>Arduino<br>&nbsp;</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/vi/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40"/><br>Raspberry Pi<br>&nbsp;</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp;<br>Arduino<br></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/vi/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40"/>&nbsp;<br>Raspberry Pi<br></td>
   </tr>
 </table>
 
