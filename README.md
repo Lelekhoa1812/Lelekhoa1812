@@ -171,7 +171,7 @@
 ### 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/dang-khoa-le-96a6332a8/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" style="height: 28px;"/>
   </a>
   <a href="https://huggingface.co/BinKhoaLe1812">
     <img src="https://img.shields.io/badge/HuggingFace-FFAE00?logo=huggingface&style=for-the-badge&logoColor=white" height="30"/>
