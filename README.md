@@ -22,7 +22,7 @@
 <h2 align="center">ℹ️ More About Me</h2>
 
 <p align="center">
-  <a href="https://lelekhoa1812.github.io/My-Profile/My%20Profile/" target="_blank">
+  <a href="https://lelekhoa1812.github.io/My-Profile/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Profile-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Profile"/>
   </a>
   &nbsp;
