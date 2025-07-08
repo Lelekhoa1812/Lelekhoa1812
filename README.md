@@ -19,13 +19,27 @@
 
 ---
 
+<h2 align="center">ℹ️ More About Me</h2>
+
+<p align="center">
+  <a href="https://lelekhoa1812.github.io/My-Profile/My%20Profile/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Profile-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Profile"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Lelekhoa1812/Lelekhoa1812/blob/main/Khoa%20Le%20(Liam)%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-0077B5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+---
+
 <h2 align="center">🛠️ Languages & Technologies</h2>
 
 ---
 
 ### 💻 Programming Languages
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;<br>Python<br></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;<br>TypeScript</td>
@@ -34,7 +48,7 @@
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;<br>C++<br></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;<br>C#<br></td>
-    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" width="40" height="40"/>&nbsp;<br>Flutter<br></td>
+    <td align="center"><img src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png" width="40" height="40"/>&nbsp;<br>Flutter<br></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;<br>JavaScript<br></td>
@@ -47,7 +61,7 @@
 
 ### 📦 Frameworks & Libraries
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>&nbsp;<br>Vue.js<br></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>&nbsp;<br>Angular<br></td>
@@ -55,8 +69,8 @@
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>&nbsp;<br>Spring<br></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40"/>&nbsp;<br>NodeJS<br></td>
-    <td align="center"><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" width="40" height="40"/>&nbsp;<br>NextJS<br></td>    
+    <td align="center"><img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" width="40" height="40"/>&nbsp;<br>NodeJS<br></td>
+    <td align="center"><img src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" width="40" height="40"/>&nbsp;<br>NextJS<br></td>    
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" width="40" height="40"/>&nbsp;<br>.NET<br></td>
@@ -64,26 +78,37 @@
     <td align="center"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" width="40" height="40"/>&nbsp;<br>FastAPI<br></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>&nbsp;<br>Bootstrap<br></td>
-        <td align="center"><img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" width="40" height="40"/>&nbsp;<br>shadecn/ui<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" width="40" height="40"/>&nbsp;<br>Bootstrap<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" width="40" height="40"/>&nbsp;<br>shadecn/ui<br></td>
     <td align="center"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" width="40" height="40"/>&nbsp;<br>TailwindCSS<br></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff" width="40" height="40"/>&nbsp;<br>Terraform<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" width="40" height="40"/>&nbsp;<br>Vercel<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" width="40" height="40"/>&nbsp;<br>Cloudfare<br></td>
+  </tr>
+    <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" width="40" height="40"/>&nbsp;<br>Vite<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white" width="40" height="40"/>&nbsp;<br>IOS<br></td>
+    <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" width="40" height="40"/>&nbsp;<br>Android<br></td>
+  </tr>
+  <tr>
 </table>
 
 ---
 
 ### 🧠 AI/ML & Data Science
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp;<br>TensorFlow<br></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>&nbsp;<br>PyTorch<br></td>
-    <td align="center"><img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff" width="40" height="40"/>&nbsp;<br>Keras<br></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width="40" height="40"/>&nbsp;<br>Keras<br></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;<br>NumPy<br></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;<br>Pandas<br></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Scikit_learn_logo.svg" width="40" height="40"/>&nbsp;<br>Scikit-learn<br></td>
+    <td align="center"><img src="https://pulplearning.altervista.org/wp-content/uploads/2021/03/1280px-Scikit_learn_logo_small.svg_.png" width="40" height="40"/>&nbsp;<br>Scikit-learn<br></td>
   </tr>
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="40" height="40"/>&nbsp;<br>Seaborn<br></td>
@@ -115,18 +140,18 @@
 
 ### 🛢️ Databases & Cloud
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>&nbsp;<br>MySQL<br></td>
-    <td align="center"><img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" width="40" height="40"/>&nbsp;<br>MariaDB<br></td>
+    <td align="center"><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" width="40" height="40"/>&nbsp;<br>MariaDB<br></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/>&nbsp;<br>OracleDB<br></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;<br>MongoDB<br></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;<br>Docker<br></td>
-    <td align="center"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" width="40" height="40"/>&nbsp;<br>Kubernetes<br></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40"/>&nbsp;<br>AWS<br></td>
-      <td align="center"><img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" width="40" height="40"/>&nbsp;<br>Prisma<br></td>
+    <td align="center"><img src="https://www.svgrepo.com/show/448233/kubernetes.svg" width="40" height="40"/>&nbsp;<br>Kubernetes<br></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="40" height="40"/>&nbsp;<br>AWS<br></td>
+      <td align="center"><img src="https://www.svgrepo.com/show/354210/prisma.svg" width="40" height="40"/>&nbsp;<br>Prisma<br></td>
   </tr>
 </table>
 
@@ -134,7 +159,7 @@
 
 ### 📡 IoT & Embedded Systems
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp;<br>Arduino<br></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/vi/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40"/>&nbsp;<br>Raspberry Pi<br></td>
@@ -169,7 +194,3 @@
 </p>
 
 <br clear="both">
-
-###
-
-<a href="https://lelekhoa1812.github.io/My-Profile/My%20Profile/" align="left"><b>Quick access to my highlights</b></a>
