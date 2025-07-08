@@ -17,7 +17,7 @@
 
 ---
 
-<h2 align="center">ℹ️ More About Me</h2>
+### ℹ️ More About Me
 
 <p align="center">
   <a href="https://lelekhoa1812.github.io/My-Profile/" target="_blank">
@@ -29,9 +29,34 @@
   </a>
 </p>
 
----
 
-<h2 align="center">🛠️ Languages & Technologies</h2>
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/dang-khoa-le-96a6332a8/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" style="height: 28px;"/>
+  </a>
+  <a href="https://huggingface.co/BinKhoaLe1812">
+    <img src="https://img.shields.io/badge/HuggingFace-FFAE00?logo=huggingface&style=for-the-badge&logoColor=white" height="30"/>
+  </a>
+  <a href="https://lelekhoa1812.github.io/Lelekhoa1812/email_contact.html">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.instagram.com/lele_khoa/?hl=vi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100041701211241">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" height="30"/>
+  </a>
+  <a href="https://youtube.com/@KhoaLe-ol8sy?si=cOMhbTGrwf7OiBKK">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white" height="30"/>
+  </a>
+  <a href="https://discord.com/channels/@me/1222391142172201021">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&style=for-the-badge&logoColor=white" height="30"/>
+  </a>
+</p>
+
+
+---
 
 ### 💻 Programming Languages
 
@@ -161,32 +186,5 @@
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/vi/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40"/>&nbsp;<br>Raspberry Pi<br></td>
   </tr>
 </table>
-
----
-
-### 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/dang-khoa-le-96a6332a8/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" style="height: 28px;"/>
-  </a>
-  <a href="https://huggingface.co/BinKhoaLe1812">
-    <img src="https://img.shields.io/badge/HuggingFace-FFAE00?logo=huggingface&style=for-the-badge&logoColor=white" height="30"/>
-  </a>
-  <a href="https://lelekhoa1812.github.io/Lelekhoa1812/email_contact.html">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.instagram.com/lele_khoa/?hl=vi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100041701211241">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" height="30"/>
-  </a>
-  <a href="https://youtube.com/@KhoaLe-ol8sy?si=cOMhbTGrwf7OiBKK">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white" height="30"/>
-  </a>
-  <a href="https://discord.com/channels/@me/1222391142172201021">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&style=for-the-badge&logoColor=white" height="30"/>
-  </a>
-</p>
 
 <br clear="both">
