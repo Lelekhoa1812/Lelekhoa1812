@@ -1,7 +1,10 @@
 <h2 align="left">Hi 👋! It's Khoa (Liam)</h2>
-🎓 Software Engineering Student @ Swinburne University (Graduating 2025)  
-🧠 Passionate about AI, MLOps, Backend Architecture, Cloud Services, Web & Mobile Development  
-📍 Based in Melbourne | Open to Internship & Graduate Roles
+
+> 🎓 Software Engineering Student @ Swinburne University (Graduating 2025)
+
+> 🧠 Passionate about AI, MLOps, Backend Architecture, Cloud Services, Web & Mobile Development  
+
+> 📍 Based in Melbourne | Open to Internship & Graduate Roles 
 
 - 🔭 Currently working on: AI Chatbots, RAG systems, IoT projects
 - 🌱 Learning: Graph Neural Networks, Edge AI
