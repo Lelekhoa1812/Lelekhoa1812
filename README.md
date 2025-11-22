@@ -1,14 +1,14 @@
 <h2 align="left">Hi 👋! It's Khoa (Liam)</h2>
 
-> 🎓 Software Engineering Student @ Swinburne University (Graduating 2025)
+> 👨‍💼 Founder of MedSwin research lab, MedViệtAI program, Co-founder of SuperEdTech.
+> 🎓 Software Engineering Student @ Swinburne University | Professional researcher [Medical AI Intensives](https://huggingface.co/MedSwin).  
+> 🧠 Passionate about AI, MLOps, LLMOps, and advanced Software Architecture.   
+> 📍 Based in Melbourne | Open for professional products and partnerships. 
 
-> 🧠 Passionate about AI, MLOps, Backend Architecture, Cloud Services, Web & Mobile Development  
-
-> 📍 Based in Melbourne | Open to Internship & Graduate Roles 
-
-- 🔭 Currently working on: AI Chatbots, RAG systems, IoT projects
-- 🌱 Learning: Graph Neural Networks, Edge AI
+- 🔭 Currently working on: LLM, RAG, ML, NLP.
+- 🌱 Learning: AI agent, AI solution, Graph Neural Networks, Edge AI
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/dang-khoa-le-96a6332a8/)
+- ☕ Buy me a [Coffee](https://medical-chatbot-henna.vercel.app/subscription.html) for our medical researches at MedSwin.
 
 ###
 
