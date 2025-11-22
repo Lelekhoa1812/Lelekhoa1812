@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! It's Khoa (Liam)</h2>
 
-> 👨‍💼 Founder of MedSwin research lab, MedViệtAI program, Co-founder of SuperEdTech.  
+> 👨‍💼 Founder of [MedSwin](https://huggingface.co/MedSwin) research lab, [MedViệtAI](https://github.com/MedVietAI) program, Co-founder of SuperEdTech.  
 > 🎓 Software Engineering Student @ Swinburne University | Professional researcher in applied [Medical AI](https://huggingface.co/MedSwin) initiatives.  
 > 🧠 Passionate about AI, MLOps, LLMOps, and advanced Software Architecture.   
 > 📍 Based in Melbourne | Open for professional products and partnerships. 
