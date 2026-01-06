@@ -6,6 +6,8 @@
 - 🧠 Passionate about AI, MLOps, LLMOps, and advanced Software Architecture.   
 - 📍 Based in Melbourne | Open for professional collaborations and partnerships. 
 
+---
+
 - 🔭 Currently working on: LLM, RAG, ML, NLP and Ops.
 - 🌱 Learning: AI agent, AI solution, Graph Neural Networks, Edge AI
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/dang-khoa-le-96a6332a8/)
