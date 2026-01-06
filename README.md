@@ -1,28 +1,29 @@
 <h2 align="left">Hi 👋! It's Khoa (Liam)</h2>
 
-> 👨‍💼 Founder of [MedSwin](https://huggingface.co/MedSwin) research lab, [MedViệtAI](https://github.com/MedVietAI) program, Co-founder of SuperEdTech.  
-> 🎓 Software Engineering Student @ Swinburne University | Professional researcher in applied [Medical AI](https://huggingface.co/MedSwin) initiatives.  
-> 🧠 Passionate about AI, MLOps, LLMOps, and advanced Software Architecture.   
-> 📍 Based in Melbourne | Open for professional products and partnerships. 
+- 👨‍💼 Founder of [MedSwin](https://huggingface.co/MedSwin) research lab, [MedViệtAI](https://github.com/MedVietAI) program, Co-founder of SuperEdTech.
+- 👨🏻‍💻 AI Engineer at [Harry the Hirer](https://huggingface.co/MedSwin](https://www.harrythehirer.com.au). Specialised in AI agent architecture for enterprises.  
+- 🎓 Software Engineering Student @ Swinburne University | Professional researcher in applied [Medical AI](https://huggingface.co/MedSwin) initiatives.  
+- 🧠 Passionate about AI, MLOps, LLMOps, and advanced Software Architecture.   
+- 📍 Based in Melbourne | Open for professional collaborations and partnerships. 
 
-- 🔭 Currently working on: LLM, RAG, ML, NLP.
+- 🔭 Currently working on: LLM, RAG, ML, NLP and Ops.
 - 🌱 Learning: AI agent, AI solution, Graph Neural Networks, Edge AI
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/dang-khoa-le-96a6332a8/)
 - ☕ Buy me a [Coffee](https://medical-chatbot-henna.vercel.app/subscription.html) for our medical researches at MedSwin.
 
 ###
 
-<div style="display: flex;" align="center">
+<!-- <div style="display: flex;" align="center">
   <div style="flex: 1;">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Lelekhoa1812&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Lelekhoa1812&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lelekhoa1812&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"/>
     <img src="io.gif" style="height: 140px;"  />
   </div>
-</div> 
+</div>  -->
 
 ###
 
-<img align="right" height="140" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newus.in%2Ffullstack-pro%3Fcourse%3DFull%2520Stack%2520pro%26path%3D%2Fstatic%2Fmedia%2Fdata-science-brochure.ce4df7d2334783dc4662.pdf&psig=AOvVaw17k2EgWJSF5EwMwPlwTb42&ust=1713336115464000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiUx8aQxoUDFQAAAAAdAAAAABAR)"  />
+<!-- <img align="right" height="140" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newus.in%2Ffullstack-pro%3Fcourse%3DFull%2520Stack%2520pro%26path%3D%2Fstatic%2Fmedia%2Fdata-science-brochure.ce4df7d2334783dc4662.pdf&psig=AOvVaw17k2EgWJSF5EwMwPlwTb42&ust=1713336115464000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiUx8aQxoUDFQAAAAAdAAAAABAR)"  /> -->
 
 ---
 
@@ -168,7 +169,7 @@
 
 ---
 
-### 🛢️ Databases & Cloud
+### 🛢️ Databases & Cloud 
 
 <table align="center">
   <tr>
@@ -187,13 +188,13 @@
 
 ---
 
-### 📡 IoT & Embedded Systems
+<!--### 📡 IoT & Embedded Systems -->
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp;<br>Arduino<br></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/vi/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40"/>&nbsp;<br>Raspberry Pi<br></td>
   </tr>
-</table>
+</table> -->
 
 <br clear="both">
