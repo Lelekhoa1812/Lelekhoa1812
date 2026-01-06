@@ -27,8 +27,6 @@
 
 <!-- <img align="right" height="140" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newus.in%2Ffullstack-pro%3Fcourse%3DFull%2520Stack%2520pro%26path%3D%2Fstatic%2Fmedia%2Fdata-science-brochure.ce4df7d2334783dc4662.pdf&psig=AOvVaw17k2EgWJSF5EwMwPlwTb42&ust=1713336115464000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiUx8aQxoUDFQAAAAAdAAAAABAR)"  /> -->
 
----
-
 ### ℹ️ More About Me
 
 <p align="center">
