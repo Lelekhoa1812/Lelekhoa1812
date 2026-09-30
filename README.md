@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! It's Khoa (Liam)</h2>
 
 - 👨‍💼 Founder of [MedSwin](https://huggingface.co/MedSwin) research lab, [MedViệtAI](https://github.com/MedVietAI) program, Co-founder of SuperEdTech.
-- 👨🏻‍💻 AI Engineer at [Harry the Hirer](https://www.harrythehirer.com.au). Specialised in AI agent architecture for enterprises.  
+- 👨🏻‍💻 AI Engineer at [Axion Solutions](https://www.axionsolutions.com.au/). Specialised in AI agent architecture for enterprises.  
 - 🎓 Software Engineering Student @ Swinburne University | Professional researcher in applied [Medical AI](https://huggingface.co/MedSwin) initiatives.  
 - 🧠 Passionate about AI, MLOps, LLMOps, and advanced Software Architecture.   
 - 📍 Based in Melbourne | Open for professional collaborations and partnerships. 
